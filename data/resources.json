@@ -1,0 +1,250 @@
+{
+  "note": "产品页 Resources 区块的 PDF 元数据（文件本体需登录/在线获取）。下载 URL 模板：https://www.ethernexion.com/api/product-resource-file?category_slug=switches&resource_id=<ID>&resource_scope=<scope>&product_slug=<slug>[&platform_key=serdesx]",
+  "all_dated": "Aug 13, 2026",
+  "login_gated_downloads": [
+    {
+      "page": "https://www.ethernexion.com/enos",
+      "files": [
+        "ENOS_User_Guide_V3.3.1.2_EN (PDF)",
+        "ENOS_Web_Guide_V3.0.21._EN (PDF)",
+        "ENOS_Command_Line_Instruction_V3.3.1.2_EN (PDF)"
+      ],
+      "note": "Sign in to download (Keycloak SSO)"
+    },
+    {
+      "page": "https://www.ethernexion.com/unicloud",
+      "files": [
+        "unicloud-v1.1.0-ubuntu20.tar (TAR)",
+        "podman-offline-ubuntu24.04.tar.gz (GZ)",
+        "UniCloud Deploy Guide EN V1.1.0 (PDF)"
+      ],
+      "note": "Sign in to download (Keycloak SSO)"
+    }
+  ],
+  "resources": [
+    {
+      "resource_id": 6,
+      "scope": "category",
+      "title": "ENOS Software Features_EN_V1.9",
+      "size": "294.3 KB",
+      "sha256_prefix": "8666c605641c",
+      "applies_to": "所有 switches 产品页"
+    },
+    {
+      "resource_id": 119,
+      "scope": "series",
+      "title": "S2 2100 Series Gigabit_Layer2 Switches Datasheet EN_V1.3",
+      "size": "1.2 MB",
+      "sha256_prefix": "cfcb9b78010c",
+      "applies_to": "S2100 系列"
+    },
+    {
+      "resource_id": 130,
+      "scope": "series",
+      "title": "S3 3700 Series_1G_Switches Datasheet EN_V1.1",
+      "size": "1.6 MB",
+      "sha256_prefix": "4ed291fd289e",
+      "applies_to": "S3700 系列"
+    },
+    {
+      "resource_id": 131,
+      "scope": "series",
+      "title": "Performance of S37 LightLlink Platform_EN_V2.2",
+      "size": "283.9 KB",
+      "sha256_prefix": "0a7da556fed8",
+      "applies_to": "S3700 系列"
+    },
+    {
+      "resource_id": 120,
+      "scope": "series",
+      "title": "S5 5100 Series_1G_Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "e02db34aba1a",
+      "applies_to": "S5100 系列"
+    },
+    {
+      "resource_id": 121,
+      "scope": "series",
+      "title": "Performance of S5 VastLake Platform_EN_V2.2",
+      "size": "254.4 KB",
+      "sha256_prefix": "aa70e5c3c195",
+      "applies_to": "S5100 系列"
+    },
+    {
+      "resource_id": 122,
+      "scope": "series",
+      "title": "Performance of S5 VastLake Platform_EN_V2.2",
+      "size": "254.4 KB",
+      "sha256_prefix": "aa70e5c3c195",
+      "applies_to": "S5200 系列"
+    },
+    {
+      "resource_id": 123,
+      "scope": "series",
+      "title": "S5 5200 Series_2.5G_Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "c8e9b9599bba",
+      "applies_to": "S5200 系列"
+    },
+    {
+      "resource_id": 124,
+      "scope": "series",
+      "title": "Performance of S5 VastLake Platform_EN_V2.2",
+      "size": "254.4 KB",
+      "sha256_prefix": "aa70e5c3c195",
+      "applies_to": "S5300 系列"
+    },
+    {
+      "resource_id": 125,
+      "scope": "series",
+      "title": "S5 5300 Series_5G_Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "e325fda21785",
+      "applies_to": "S5300 系列"
+    },
+    {
+      "resource_id": 126,
+      "scope": "series",
+      "title": "Performance of S5 VastLake Platform_EN_V2.2",
+      "size": "254.4 KB",
+      "sha256_prefix": "aa70e5c3c195",
+      "applies_to": "S5400 系列"
+    },
+    {
+      "resource_id": 127,
+      "scope": "series",
+      "title": "S5 5400 Series_10G_Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "dd1afc6f1bbf",
+      "applies_to": "S5400 系列"
+    },
+    {
+      "resource_id": 128,
+      "scope": "series",
+      "title": "Performance of S5 VastLake Platform_EN_V2.2",
+      "size": "254.4 KB",
+      "sha256_prefix": "aa70e5c3c195",
+      "applies_to": "S5500 系列"
+    },
+    {
+      "resource_id": 129,
+      "scope": "series",
+      "title": "S5 5500 Series_40G_Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "05437d3c5e01",
+      "applies_to": "S5500 系列"
+    },
+    {
+      "resource_id": 132,
+      "scope": "series",
+      "title": "S7 Bigflow Series Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "11449127ae6b",
+      "applies_to": "S7100 系列"
+    },
+    {
+      "resource_id": 133,
+      "scope": "series",
+      "title": "Performance of S7 Bigflow Platform_EN_V2.2",
+      "size": "284.8 KB",
+      "sha256_prefix": "6e6a6ad511a4",
+      "applies_to": "S7100 系列"
+    },
+    {
+      "resource_id": 134,
+      "scope": "series",
+      "title": "S7 Bigflow Series Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "11449127ae6b",
+      "applies_to": "S7200 系列"
+    },
+    {
+      "resource_id": 135,
+      "scope": "series",
+      "title": "Performance of S7 Bigflow Platform_EN_V2.2",
+      "size": "284.8 KB",
+      "sha256_prefix": "6e6a6ad511a4",
+      "applies_to": "S7200 系列"
+    },
+    {
+      "resource_id": 136,
+      "scope": "series",
+      "title": "S7 Bigflow Series Switches Datasheet EN_V1.3",
+      "size": "1.6 MB",
+      "sha256_prefix": "11449127ae6b",
+      "applies_to": "S7314CH-4N-EI"
+    },
+    {
+      "resource_id": 137,
+      "scope": "series",
+      "title": "Performance of S7 Bigflow Platform_EN_V2.2",
+      "size": "284.8 KB",
+      "sha256_prefix": "6e6a6ad511a4",
+      "applies_to": "S7314CH-4N-EI"
+    },
+    {
+      "resource_id": 138,
+      "scope": "series",
+      "title": "S8 Powerlink Series Switches Datasheet EN_V1.3",
+      "size": "1.5 MB",
+      "sha256_prefix": "bf02f7130672",
+      "applies_to": "S8248N-8C"
+    },
+    {
+      "resource_id": 139,
+      "scope": "series",
+      "title": "Performance of Powerlink Platform_EN_V2.2",
+      "size": "1017.3 KB",
+      "sha256_prefix": "7884f5b53f65",
+      "applies_to": "S8248N-8C"
+    },
+    {
+      "resource_id": 140,
+      "scope": "series",
+      "title": "S8 Powerlink Series Switches Datasheet EN_V1.3",
+      "size": "1.5 MB",
+      "sha256_prefix": "bf02f7130672",
+      "applies_to": "S8332C"
+    },
+    {
+      "resource_id": 141,
+      "scope": "series",
+      "title": "Performance of Powerlink Platform_EN_V2.2",
+      "size": "1017.3 KB",
+      "sha256_prefix": "7884f5b53f65",
+      "applies_to": "S8332C"
+    },
+    {
+      "resource_id": 13,
+      "scope": "product",
+      "title": "Performance of Powerlink Platform_EN_V2.2",
+      "size": "1017.3 KB",
+      "sha256_prefix": "7884f5b53f65",
+      "applies_to": "S9232BQ-2X"
+    },
+    {
+      "resource_id": 14,
+      "scope": "product",
+      "title": "S9 Series Switches Datasheet EN_V1.3",
+      "size": "1.5 MB",
+      "sha256_prefix": "0db519207f15",
+      "applies_to": "S9232BQ-2X"
+    },
+    {
+      "resource_id": 31,
+      "scope": "platform(serdesx)",
+      "title": "Performance of S9 SerdesX Platform_EN_V2.2",
+      "size": "1021.3 KB",
+      "sha256_prefix": "3222dcbfd2bf",
+      "applies_to": "S9332DQ / S9364DQ / S9432OF"
+    },
+    {
+      "resource_id": 33,
+      "scope": "platform(serdesx)",
+      "title": "S9 Series Switches Datasheet EN_V1.3",
+      "size": "1.5 MB",
+      "sha256_prefix": "0db519207f15",
+      "applies_to": "S9332DQ / S9364DQ / S9432OF"
+    }
+  ]
+}

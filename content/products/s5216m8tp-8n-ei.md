@@ -1,8 +1,8 @@
 ---
 url: https://www.ethernexion.com/products/switches/s5216m8tp-8n-ei-16-x-25g-base-t-poe-per-port-90w-8-x-10g-base-t-poe-per-port-90w-8-x-2510g-sfp28-988w-support-l3-management-poe-switch
 title: "S5216M8TP-8N-EI, 16 x 2.5G Base-T (PoE++ per port 90W), 8 x 10G Base-T (PoE++ per port 90W), 8 x 25/10G SFP28, 98.8W, Support, L3 Management POE Switch"
-sku: null  # 页面未展示 SKU（目录页未见）
-price_usd: null
+sku: S52-16M8T-P-8N-EI-L3  # 来自目录页
+price_usd: 3448  # 来自目录页标价
 series: S5200 (5 models)
 collection: ENOS Enterprise & ISP Switches
 fetched: 2026-08-22

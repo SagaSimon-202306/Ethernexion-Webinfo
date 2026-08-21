@@ -1,8 +1,8 @@
 ---
 url: https://www.ethernexion.com/products/switches/s5324vp-8n-ei-24-x-100m1g25g5g-base-t-poe-per-port-90w-8-x-25g-sfp28-support-l3-management-switch
 title: "S5324VP-8N-EI, 24 x 100M/1G/2.5G/5G Base-T (PoE++ per port 90W), 8 x 25G SFP28, Support, L3 Management Switch"
-sku: null
-price_usd: null
+sku: S53-24V-P-8N-EI-L3  # 来自目录页
+price_usd: 4598  # 来自目录页标价
 series: S5300 (6 models)
 collection: ENOS Enterprise & ISP Switches
 fetched: 2026-08-22

@@ -2,7 +2,7 @@
 url: https://www.ethernexion.com/products/switches/s5124gp-4x2q-ei-24-x-1g-base-t-poe-per-port-30w-2-x-40g-qsfp-4-x-25g10g-sfp28-51w-support-l3-management-poe-switch
 title: "S5124GP-4X2Q-EI, 24 x 1G Base-T (PoE+, per port 30W), 2 x 40G QSFP+, 4 x 25G/10G SFP28, 51W, Support, L3 Management POE Switch"
 sku: S51-24G-P-4X2Q-EI-L3
-price_usd: null
+price_usd: 2658  # 来自目录页标价
 series: S5100 (10 models)
 collection: ENOS Enterprise & ISP Switches
 fetched: 2026-08-22

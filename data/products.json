@@ -1,0 +1,1035 @@
+{
+  "count": 72,
+  "products": [
+    {
+      "file": "content/products/s2108g-2s.md",
+      "url": "https://www.ethernexion.com/products/switches/s2108g-2s-8-x-1g-base-t-2-x-1g-sfp-l2-management-switch",
+      "title": "S2108G-2S, 8 x 1G Base-T, 2 x 1G SFP, L2 Management Switch",
+      "sku": "S21-8G-N-2S-L2",
+      "price_usd": 100,
+      "series": "S2100 (4 models)",
+      "collection": "SMB/SME Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/8-3.width-1200.png",
+        "https://www.ethernexion.com/media/images/8-1.width-1200.png",
+        "https://www.ethernexion.com/media/images/8-2.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_5fNGFiU.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s2108gp-2s.md",
+      "url": "https://www.ethernexion.com/products/switches/s2108gp-2s-8-x-1g-base-t-poe-30w-2-x-1g-sfp-support-l2-management-poe-switch",
+      "title": "S2108GP-2S, 8 x 1G Base-T (POE+ 30W), 2 x 1G SFP, Support, L2 Management POE Switch",
+      "sku": "S21-8G-P-2S-L2",
+      "price_usd": 200,
+      "series": "S2100 (4 models)",
+      "collection": "SMB/SME Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_8Y2VRPi.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_G0YL9vH.width-1200.png",
+        "https://www.ethernexion.com/media/images/4_xgnD07r.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_5fNGFiU.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s2124g-4s.md",
+      "url": "https://www.ethernexion.com/products/switches/s2124g-4s-24-x-1g-base-t-4x-1g-sfp-l2-management-switch",
+      "title": "S2124G-4S, 24 x 1G Base-T, 4x 1G SFP, L2 Management Switch",
+      "sku": "S21-24G-N-4S-L2",
+      "price_usd": 167,
+      "series": "S2100 (4 models)",
+      "collection": "SMB/SME Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S2124G-4S.width-1200.png",
+        "https://www.ethernexion.com/media/images/24-1.width-1200.png",
+        "https://www.ethernexion.com/media/images/24-2.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_bBD5Ucl.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s2124gp-4s.md",
+      "url": "https://www.ethernexion.com/products/switches/s2124gp-4s-24-x-1g-base-t-poe-30w-4x-1g-sfp-support-l2-management-poe-switch",
+      "title": "S2124GP-4S, 24 x 1G Base-T (POE+ 30W), 4x 1G SFP, Support, L2 Management POE Switch",
+      "sku": "S21-24G-P-4S-L2",
+      "price_usd": 360,
+      "series": "S2100 (4 models)",
+      "collection": "SMB/SME Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_Im8QKSG.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_98JOSq3.width-1200.png",
+        "https://www.ethernexion.com/media/images/4_eUgzmSR.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_bBD5Ucl.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3708gp-2x-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s3708gp-2x-si-8-x-1g-base-t-poe-30w-2-x-10g-sfp-support-l3-management-switch",
+      "title": "S3708GP-2X-SI, 8 x 1G Base-T (PoE+ 30W), 2 x 10G SFP+, Support, L3 Management Switch",
+      "sku": "S37-8G-P-2X-SI-L3",
+      "price_usd": 513,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3708GP-2X-SI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/0.543.width-1200.png",
+        "https://www.ethernexion.com/media/images/0.544.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3708GP-2X-SI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3724g-6x-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s3724g-6x-ei-24-x-1g-baset-6x-10g-sfp-l3-management-switch",
+      "title": "S3724G-6X-EI, 24 x 1G BaseT, 6x 10G SFP+, L3 Management Switch",
+      "sku": "S37-24G-N-6X-EI-L3",
+      "price_usd": 1397,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/ZhengMian1.width-1200.png",
+        "https://www.ethernexion.com/media/images/YouCeMian_5J1AZBU.width-1200.png",
+        "https://www.ethernexion.com/media/images/ZuoCeMian_g8FvmzM.width-1200.png",
+        "https://www.ethernexion.com/media/images/ethernexion_WangZhanTuPianChiCunMoBan_O2KZG6P.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3724g-6x-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s3724g-6x-si-24-x-1g-baset-6x-10g-sfp-l3-management-switch",
+      "title": "S3724G-6X-SI, 24 x 1G BaseT, 6x 10G SFP+, L3 Management Switch",
+      "sku": "S37-24G-N-6X-SI-L3",
+      "price_usd": 1150,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3724G-6X-SI_F.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724G-6X-SI_R.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724G-6X-SI_L.width-1200.png",
+        "https://www.ethernexion.com/media/images/ethernexion_WangZhanTuPianChiCunMoBan2.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3724gp-6x-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s3724gp-6x-ei-24-x-1g-basetpoe-90w-6x-10g-sfp-support-l3-management-poe-switch",
+      "title": "S3724GP-6X-EI, 24 x 1G BaseT(PoE++ 90W)+ 6x 10G SFP+, Support, L3 Management POE Switch",
+      "sku": "S37-24G-P-6X-EI-L3",
+      "price_usd": 2380,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3724GP-6X-EI_F.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724GP-6X-EI_R.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724GP-6X-EI_L.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724GP-6X-EI_B.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3724gp-6x-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s3724gp-6x-si-24-x-1g-basetpoe30w-6x-10g-sfp-support-l3-management-poe-switch",
+      "title": "S3724GP-6X-SI, 24 x 1G BaseT(PoE++30W) , 6x 10G SFP+, Support, L3 Management POE Switch",
+      "sku": "S37-24G-P-6X-SI-L3",
+      "price_usd": 1347,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/ZhengMian_2.width-1200.png",
+        "https://www.ethernexion.com/media/images/YouCeMian_Ey8SSIw.width-1200.png",
+        "https://www.ethernexion.com/media/images/ZuoCeMian_ldiP7lg.width-1200.png",
+        "https://www.ethernexion.com/media/images/BeiMian_FZSMxbk.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3724s-8t6x-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s3724s-8t6x-ei-16-x-1g-sfp-8x1g-base-t-or-8x1g-sfp-combo-6x-10g-sfp-l3-management-switch",
+      "title": "S3724S-8T6X-EI, 16 x 1G SFP, 8x1G Base-T or 8x1G SFP Combo, 6x 10G SFP+, L3 Management Switch",
+      "sku": "S37-24S-N-8T6X-EI-L3",
+      "price_usd": 1740,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-EI_F.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-EI_R.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-EI_L.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-EI_B.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3724s-8t6x-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s3724s-8t6x-si-16-x-1g-sfp-8x1g-base-t-or-8x1g-sfp-combo-6x-10g-sfp-l3-management-switch",
+      "title": "S3724S-8T6X-SI, 16 x 1G SFP, 8x1G Base-T or 8x1G SFP Combo, 6x 10G SFP+, L3 Management Switch",
+      "sku": "S37-24S-N-8T6X-SI-L3",
+      "price_usd": 1397,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-SI_F.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-SI_R.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-SI_L.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3724S-8T6X-SI_B.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3748g-6x-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s3748g-6x-ei-48-x-1g-baset-6x-10g-sfp-l3-management-switch",
+      "title": "S3748G-6X-EI, 48 x 1G BaseT, 6x 10G SFP+, L3 Management Switch",
+      "sku": "S37-48G-N-6X-EI-L3",
+      "price_usd": 1643,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3748G-6X-EIZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748G-6X-EIYou_3cJWJ64.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748G-6X-EIZuo_GuWnnub.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748-6X-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3748g-6x-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s3748g-6x-si-48-x-1g-baset-6x-10g-sfp-l3-management-switch",
+      "title": "S3748G-6X-SI, 48 x 1G BaseT, 6x 10G SFP+, L3 Management Switch",
+      "sku": "S37-48G-N-6X-SI-L3",
+      "price_usd": 1447,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3748G-6X-EIZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748G-6X-EIYou_3cJWJ64.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748G-6X-EIZuo_GuWnnub.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748G-6X-SI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3748gp-6x-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s3748gp-6x-ei-48-x-1g-baset-poe-90w-6x-10g-sfp-support-l3-management-poe-switch",
+      "title": "S3748GP-6X-EI, 48 x 1G BaseT (PoE++ 90W) , 6x 10G SFP+, Support, L3 Management POE Switch",
+      "sku": "S37-48G-P-6X-EI-L3",
+      "price_usd": 2820,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3748GP-6X-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748GP-6X-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748GP-6X-EIZuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748GP-6X-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s3748gp-6x-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s3748gp-6x-si-48-x-1g-baset-poe-90w-6x-10g-sfp-support-l3-management-poe-switch",
+      "title": "S3748GP-6X-SI, 48 x 1G BaseT (PoE++ 90W), 6x 10G SFP+, Support, L3 Management POE Switch",
+      "sku": "S37-48G-P-6X-SI-L3",
+      "price_usd": 2033,
+      "series": "S3700 (11 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S3748GP-6X-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748GP-6X-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748GP-6X-EIZuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S3748P-6X-SI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5124g-4x2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5124g-4x2q-ei-241g-base-t-2-x-40g-qsfp-4-x-25g10g-sfp28-60w-l3-management-switch",
+      "title": "S5124G-4X2Q-EI, 24*1G Base-T, 2 x 40G QSFP+, 4 x 25G/10G SFP28, 60W, L3 Management Switch",
+      "sku": "S51-24G-N-4X2Q-EI-L3",
+      "price_usd": 2443,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_ZaoTnhV.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_qX5XA2T.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_z2pK95B.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5124g-4x2q-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5124g-4x2q-si-241g-base-t-2-x-40g-qsfp-4-x-25g10g-sfp28-51w-l3-management-switch",
+      "title": "S5124G-4X2Q-SI, 24*1G Base-T, 2 x 40G QSFP+, 4 x 25G/10G SFP28, 51W, L3 Management Switch",
+      "sku": "S51-24G-N-4X2Q-SI-L3",
+      "price_usd": 2155,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_ZaoTnhV.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_qX5XA2T.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_z2pK95B.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5124gp-4x2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5124gp-4x2q-ei-24-x-1g-base-t-poe-per-port-30w-2-x-40g-qsfp-4-x-25g10g-sfp28-51w-support-l3-management-poe-switch",
+      "title": "S5124GP-4X2Q-EI, 24 x 1G Base-T (PoE+, per port 30W), 2 x 40G QSFP+, 4 x 25G/10G SFP28, 51W, Support, L3 Management POE Switch",
+      "sku": "S51-24G-P-4X2Q-EI-L3",
+      "price_usd": 2658,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIZuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5124gp-4x2q-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5124gp-4x2q-si-24-x-1g-base-t-poe-per-port-30w-2-x-40g-qsfp-4-x-25g10g-sfp28-70w-support-l3-management-poe-switch",
+      "title": "S5124GP-4X2Q-SI, 24 x 1G Base-T (PoE+, per port 30W), 2 x 40G QSFP+, 4 x 25G/10G SFP28, 70W, Support, L3 Management POE Switch",
+      "sku": "S51-24G-P-4X2Q-SI-L3",
+      "price_usd": 2371,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIZuo.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5124gpb-4x2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5124gpb-4x2q-ei-24-x-1g-base-t-poe-per-port-90w-2-x-40g-qsfp-4-x-25g10g-sfp28-54w-support-l3-management-poe-switch",
+      "title": "S5124GPB-4X2Q-EI, 24 x 1G Base-T (PoE++, per port 90W), 2 x 40G QSFP+, 4 x 25G/10G SFP28, 54W, Support, L3 Management POE Switch",
+      "sku": "S51-24G-PB-4X2Q-EI-L3",
+      "price_usd": 2874,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIZuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5124GPB-4X2Q-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5148g-4x2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5148g-4x2q-ei-48-x-1g-base-t-2-x-40g-qsfp-4-x-25g10g-sfp28-60w-l3-management-switch",
+      "title": "S5148G-4X2Q-EI, 48 x 1G Base-T, 2 x 40G QSFP+, 4 x 25G/10G SFP28, 60W, L3 Management Switch",
+      "sku": "S51-48G-N-4X2Q-EI-L3",
+      "price_usd": 2802,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_rrKFt04.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_rxWY0VW.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_I8XReG8.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5148g-4x2q-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5148g-4x2q-si-48-x-1g-base-t-2-x-40g-qsfp-4-x-25g10g-sfp28-72w-l3-management-switch",
+      "title": "S5148G-4X2Q-SI, 48 x 1G Base-T, 2 x 40G QSFP+, 4 x 25G/10G SFP28, 72W, L3 Management Switch",
+      "sku": "S51-48G-N-4X2Q-SI-L3",
+      "price_usd": 2083,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_rrKFt04.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_rxWY0VW.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_I8XReG8.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5148gp-4x2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5148gp-4x2q-ei-48-x-1g-base-tpoe-per-port-30w-2-x-40g-qsfp-4-x-25g10g-sfp28-72w-support-l3-management-poe-switch",
+      "title": "S5148GP-4X2Q-EI, 48 x 1G Base-T(PoE+, per port 30W), 2 x 40G QSFP+, 4 x 25G/10G SFP28, 72W, Support, L3 Management POE Switch",
+      "sku": "S51-48G-P-4X2Q-EI-L3",
+      "price_usd": 3089,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EIYou_SE9YwJG.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EI_1_g6aoYZK.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5148gp-4x2q-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5148gp-4x2q-si-48-x-1g-base-t-poe-per-port-30w-2-x-40g-qsfp-4-x-25g10g-sfp28-86w-support-l3-management-poe-switch",
+      "title": "S5148GP-4X2Q-SI, 48 x 1G Base-T (PoE+, per port 30W), 2 x 40G QSFP+, 4 x 25G/10G SFP28, 86W, Support, L3 Management POE Switch",
+      "sku": "S51-48G-P-4X2Q-SI-L3",
+      "price_usd": 2586,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EIYou_SE9YwJG.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EI_1_g6aoYZK.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5148gpb-4x2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5148gpb-4x2q-ei-48-x-1g-base-t-poe-per-port-90w-2-x-40g-qsfp-4-x-25g10g-sfp28-72w-support-l3-management-poe-switch",
+      "title": "S5148GPB-4X2Q-EI, 48 x 1G Base-T (PoE++, per port 90W), 2 x 40G QSFP+, 4 x 25G/10G SFP28, 72W, Support, L3 Management POE Switch",
+      "sku": "S51-48G-PB-4X2Q-EI-L3",
+      "price_usd": 3807,
+      "series": "S5100 (10 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EIYou_SE9YwJG.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EI_1_g6aoYZK.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5148GP-4X2Q-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5216m8tp-8n-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5216m8tp-8n-ei-16-x-25g-base-t-poe-per-port-90w-8-x-10g-base-t-poe-per-port-90w-8-x-2510g-sfp28-988w-support-l3-management-poe-switch",
+      "title": "S5216M8TP-8N-EI, 16 x 2.5G Base-T (PoE++ per port 90W), 8 x 10G Base-T (PoE++ per port 90W), 8 x 25/10G SFP28, 98.8W, Support, L3 Management POE Switch",
+      "sku": "S52-16M8T-P-8N-EI-L3",
+      "price_usd": 3448,
+      "series": "S5200 (5 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5016P-8T8N-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5232m16tp-8n-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5232m16tp-8n-ei-32-x-25g-base-t-poe-per-port-90w-16-x-10g-base-t-poe-per-port-90w-8-x-2510g-sfp28-1522w-support-l3-management-poe-switch",
+      "title": "S5232M16TP-8N-EI, 32 x 2.5G Base-T (PoE++ per port 90W), 16 x 10G Base-T (PoE++ per port 90W), 8 x 25/10G SFP28, 152.2W, Support, L3 Management POE Switch",
+      "sku": "S52-32M16T-P-8N-EI-L3",
+      "price_usd": 5172,
+      "series": "S5200 (5 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5232M16TP-8N-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5232M16TP-8N-EIYou_HIieFbY.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5232M16TP-8N-EI_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5232M16TP-8N-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5240m8tp-4n2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5240m8tp-4n2q-ei-40-x-25g-base-t-poe-per-port-90w-8-x-10g-base-t-poe-per-port-90w-4-x-25-sfp28-2-x-40g-qsfp-1612w-support-l3-management-poe-switch",
+      "title": "S5240M8TP-4N2Q-EI, 40 x 2.5G Base-T (PoE++ per port 90W), 8 x 10G Base-T (PoE++ per port 90W), 4 x 25 SFP28, 2 x 40G QSFP+, 161.2W, Support, L3 Management POE Switch",
+      "sku": "S52-40M8T-P-4N2Q-EI-L3",
+      "price_usd": 4813,
+      "series": "S5200 (5 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIZuo_NZ7wnvG.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIBeiMianGuangZhao.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5248m-4x2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5248m-4x2q-ei-48-x-100m1g25g-base-t-4-x-25g-sfp28-2-x-40g-qsfp-l3-management-switch",
+      "title": "S5248M-4X2Q-EI, 48 x 100M/1G/2.5G Base-T, 4 x 25G SFP28, 2 x 40G QSFP+, L3 Management Switch",
+      "sku": "S52-48M-N-4X2Q-EI-L3",
+      "price_usd": 3664,
+      "series": "S5200 (5 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5248M-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5248M-4X2Q-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5248M-4X2Q-EIZuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5248M-4X2Q-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5248m-4x2q-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5248m-4x2q-si-48-x-100m1g25g-base-t-4-x-25g-sfp28-2-x-40g-qsfp-66w-l3-management-switch",
+      "title": "S5248M-4X2Q-SI, 48 x 100M/1G/2.5G Base-T, 4 x 25G SFP28, 2 x 40G QSFP+, 66W, L3 Management Switch",
+      "sku": "S52-48M-N-4X2Q-SI-L3",
+      "price_usd": 2874,
+      "series": "S5200 (5 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5248M-4X2Q-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5248M-4X2Q-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5248M-4X2Q-EIZuo.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5324vp-8n-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5324vp-8n-ei-24-x-100m1g25g5g-base-t-poe-per-port-90w-8-x-25g-sfp28-support-l3-management-switch",
+      "title": "S5324VP-8N-EI, 24 x 100M/1G/2.5G/5G Base-T (PoE++ per port 90W), 8 x 25G SFP28, Support, L3 Management Switch",
+      "sku": "S53-24V-P-8N-EI-L3",
+      "price_usd": 4598,
+      "series": "S5300 (6 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5324VP-8N-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5334v-1x2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5334v-1x2c-si-34-x-5g-base-t1-x-10g-sfp-2-x-100g-qsfp28-l3-management-switch",
+      "title": "S5334V-1X2C-SI, 34 x 5G Base-T+1 x 10G SFP+, 2 x 100G QSFP28, L3 Management Switch",
+      "sku": "S53-34V-N-1X2C-SI-L3",
+      "price_usd": 2658,
+      "series": "S5300 (6 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5334V-1X2C-SI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5348v-4c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5348v-4c-ei-48-x-100m1g25g5g-base-t-4-x-100g-qsfp28-l3-management-switch",
+      "title": "S5348V-4C-EI, 48 x 100M/1G/2.5G/5G Base-T, 4 x 100G QSFP28, L3 Management Switch",
+      "sku": "S53-48V-N-4C-EI-L3",
+      "price_usd": 4310,
+      "series": "S5300 (6 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5348V-4C-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5348v-4c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5348v-4c-si-48-x-100m1g25g5g-base-t-4-x-100g-qsfp28-l3-management-switch",
+      "title": "S5348V-4C-SI, 48 x 100M/1G/2.5G/5G Base-T, 4 x 100G QSFP28, L3 Management Switch",
+      "sku": "S53-48V-N-4C-SI-L3",
+      "price_usd": 3592,
+      "series": "S5300 (6 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5348V-4C-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5348v-4n2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5348v-4n2c-ei-48-x-100m1g25g5g-base-t-4-x-10g25g-sfp28-2-x-100g-qsfp28-l3-management-switch",
+      "title": "S5348V-4N2C-EI, 48 x 100M/1G/2.5G/5G Base-T, 4 x 10G/25G SFP28, 2 x 100G QSFP28, L3 Management Switch",
+      "sku": "S53-48V-N-4N2C-EI-L3",
+      "price_usd": 4310,
+      "series": "S5300 (6 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5348V-4N2C-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5348v-4n2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5348v-4n2c-si-48-x-100m1g25g5g-base-t-4-x-10g25g-sfp28-2-x-100g-qsfp28-l3-management-switch",
+      "title": "S5348V-4N2C-SI, 48 x 100M/1G/2.5G/5G Base-T, 4 x 10G/25G SFP28, 2 x 100G QSFP28, L3 Management Switch",
+      "sku": "S53-48V-N-4N2C-SI-L3",
+      "price_usd": 3592,
+      "series": "S5300 (6 models)",
+      "collection": "ENOS Enterprise & ISP Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5348V-4N2C-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5412x-8g8s8n2q-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5412-x-8g8s8n2q-ei-12-x-10g-sfp-8-x-1g-baset-8-x-1g-sfp-8-x-25g-sfp28-2-x-40g-qsfp-72w-l3-management-switch",
+      "title": "S5412 x -8G8S8N2Q-EI, 12 x 10G SFP+, 8 x 1G BaseT, 8 x 1G SFP, 8 x 25G SFP28, 2 x 40G QSFP+, 72W, L3 Management Switch",
+      "sku": "S54-12X-N-8G8S8N-2Q-EI-L3",
+      "price_usd": 2670,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5412_x_-8G8S8N2Q-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5412x12th-2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5412-x-12th-2c-ei-halfsize-switch-with-12-x-10g-sfp-12-x-10g-base-t-2-x-100g-qsfp28-81w-l3-management-switch",
+      "title": "S5412 x 12TH-2C-EI, Halfsize switch with 12 x 10G SFP+, 12 x 10G Base-T, 2 x 100G QSFP28, 81W, L3 Management Switch",
+      "sku": "HS54-12X-12T-N-2C-EI-L3",
+      "price_usd": 2802,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5412_x_12TH-2C-EI.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5412X12TH-2C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5412X12TH-2C-EI_YouCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5412X12TH-2C-EI_ZuoCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5412X12TH-2C-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5412x12th-2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5412-x-12th-2c-si-halfsize-switch-with-12-x-10g-sfp-12-x-10g-base-t-2-x-100g-qsfp28-l3-management-switch",
+      "title": "S5412 x 12TH-2C-SI, Halfsize switch with 12 x 10G SFP+, 12 x 10G Base-T, 2 x 100G QSFP28, L3 Management Switch",
+      "sku": "HS54-12X12T-N-2C-SI-L3",
+      "price_usd": 2586,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5412_x_12TH-2C-EI.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5412X12TH-2C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5412X12TH-2C-EI_YouCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5412X12TH-2C-EI_ZuoCeMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424t-2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424t-2c-ei-24-x-100m1g25g5g10g-base-t-2-x-100g-qsfp28-106w-l3-management-switch",
+      "title": "S5424T-2C-EI, 24 x 100M/1G/2.5G/5G/10G Base-T, 2 x 100G QSFP28, 106W, L3 Management Switch",
+      "sku": "S54-24T-N-2C-EI-L3",
+      "price_usd": 4310,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_9AUOeOi.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_Y52UwBF.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_pKj4kug.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424TP-2C-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424t-2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424t-2c-si-24-x-100m1g25g5g10g-base-t-2-x-100g-qsfp28-112w-l3-management-switch",
+      "title": "S5424T-2C-SI, 24 x 100M/1G/2.5G/5G/10G Base-T, 2 x 100G QSFP28, 112W, L3 Management Switch",
+      "sku": "S54-24T-N-2C-SI-L3",
+      "price_usd": 3592,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/3_9AUOeOi.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_Y52UwBF.width-1200.png",
+        "https://www.ethernexion.com/media/images/1_pKj4kug.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424t-8n-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424t-8n-ei-24-x-100m1g25g5g10g-base-t-8-x-25g-sfp28-76w-l3-management-switch",
+      "title": "S5424T-8N-EI, 24 x 100M/1G/2.5G/5G/10G Base-T, 8 x 25G SFP28, 76W, L3 Management Switch",
+      "sku": "S54-24T-N-8N-EI-L3",
+      "price_usd": 4310,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424T-8N-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424th-2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424th-2c-ei-halfsize-switch-with-24-x-10g-base-t-2-x-100g-qsfp28-101w-l3-management-switch",
+      "title": "S5424TH-2C-EI, Halfsize switch with 24 x 10G Base-T, 2 x 100G QSFP28, 101W, L3 Management Switch",
+      "sku": "HS54-24T-N-2C-EI-L3",
+      "price_usd": 3376,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424TH-2C-EI_nO26uc6.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424TH-2C-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424th-2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424th-2c-si-halfsize-switch-with-24-x-10g-base-t-2-x-100g-qsfp28-98w-l3-management-switch",
+      "title": "S5424TH-2C-SI, Halfsize switch with 24 x 10G Base-T, 2 x 100G QSFP28, 98W, L3 Management Switch",
+      "sku": "HS54-24T-N-2C-SI-L3",
+      "price_usd": 3233,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424TH-2C-SI.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424TH-2C-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424tp-2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424tp-2c-ei-24-x-100m1g25g5g10g-base-t-poe-per-port-90w-2-x-100g-qsfp28-112w-support-l3-management-poe-switch",
+      "title": "S5424TP-2C-EI, 24 x 100M/1G/2.5G/5G/10G Base-T (PoE++, per port 90W), 2 x 100G QSFP28, 112W, Support, L3 Management POE Switch",
+      "sku": "S54-24T-P-2C-EI-L3",
+      "price_usd": 5029,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424TP-2C-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424TP-2C-EIYou.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424TP-2C-EI_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424TP-2C-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424tp-8n-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424tp-8n-ei-24-x-100m1g25g5g10g-base-t-poe-per-port-90w-8-x-25g-sfp28-116w-support-l3-management-poe-switch",
+      "title": "S5424TP-8N-EI, 24 x 100M/1G/2.5G/5G/10G Base-T (PoE++, per port 90W), 8 x 25G SFP28, 116W, Support, L3 Management POE Switch",
+      "sku": "S54-24T-P-8N-EI-L3",
+      "price_usd": 5029,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424TP-8N-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424x-2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424-x-2c-ei-24-x-10g-sfp-2-x-100g-qsfp28-64w-l3-management-fiber-switch",
+      "title": "S5424 x -2C-EI, 24 x 10G SFP+, 2 x 100G QSFP28, 64W, L3 Management Fiber Switch",
+      "sku": "S54-24X-N-2C-EI-L3",
+      "price_usd": 3089,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424X-2C-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424_x_-2C-EI_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424X-2C-EIZuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424_x_-2C-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424x-2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424-x-2c-si-24-x-10g-sfp-2-x-100g-qsfp28-55w-l3-management-fiber-switch",
+      "title": "S5424 x -2C-SI, 24 x 10G SFP+, 2 x 100G QSFP28, 55W, L3 Management Fiber Switch",
+      "sku": "S54-24X-N-2C-SI-L3",
+      "price_usd": 2443,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424X-2C-EIZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424_x_-2C-EI_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424X-2C-EIZuo.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424x-8n-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424-x-8n-ei-24-x-10g-sfp-8-x-25g-sfp28-76w-l3-management-fiber-switch",
+      "title": "S5424 x -8N-EI, 24 x 10G SFP+, 8 x 25G SFP28, 76W, L3 Management Fiber Switch",
+      "sku": "S54-24X-N-8N-EI-L3",
+      "price_usd": 3089,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424_x_-8N-EI.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424xh-2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424-x-h-2c-ei-halfsize-switch-with-24-x-10g-sfp-2-x-100g-qsfp28-64w-l3-management-fiber-switch",
+      "title": "S5424 x H-2C-EI, Halfsize switch with 24 x 10G SFP+, 2 x 100G QSFP28,, 64W, L3 Management Fiber Switch",
+      "sku": "HS54-24X-N-2C-EI-L3",
+      "price_usd": 2227,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424_x_H-2C-EI.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424_x_H-2C-EI_ZhengMian_AdxD1JW.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424XH-2C-EI_YouCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424XH-2C-EI_ZuoCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424XH-2C-EI_BeiMianGuangZhao.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5424xh-2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5424-x-h-2c-si-halfsize-switch-with-24-x-10g-sfp-2-x-100g-qsfp28-38w-l3-management-fiber-switch",
+      "title": "S5424 x H-2C-SI, Halfsize switch with 24 x 10G SFP+, 2 x 100G QSFP28, 38W, L3 Management Fiber Switch",
+      "sku": "HS54-24X-N-2C-SI-L3",
+      "price_usd": 1940,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5424_x_H-2C-SI.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424_x_H-2C-EI_ZhengMian_AdxD1JW.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424XH-2C-EI_YouCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5424XH-2C-EI_ZuoCeMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5448t-4x2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5448t-4-x-2c-ei-48-x-100m1g25g5g10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-l3-management-switch",
+      "title": "S5448T-4 x 2C-EI, 48 x 100M/1G/2.5G/5G/10G Base-T, 4 x 10G SFP+, 2 x 100G QSFP28, L3 Management Switch",
+      "sku": "S54-48T-N-4X2C-EI-L3",
+      "price_usd": 6609,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5448T-4X2C-EI_F.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448T-4X2C-EI_L.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448T-4X2C-EI_RIGHT_sXVUDlt.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5448t-4x2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5448t-4-x-2c-si-48-x-100m1g25g5g10g-base-t-4-x-10g-sfp-2-x-100g-qsfp28-l3-management-switch",
+      "title": "S5448T-4 x 2C-SI, 48 x 100M/1G/2.5G/5G/10G Base-T, 4 x 10G SFP+, 2 x 100G QSFP28, L3 Management Switch",
+      "sku": "S54-48T-N-4X2C-SI-L3",
+      "price_usd": 5172,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5448T-4X2C-EI_F.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448T-4X2C-EI_RIGHT_sXVUDlt.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448T-4X2C-EI_L.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448T-4X2C-EI_B.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5448x-2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5448-x-2c-si-48-x-10g-sfp-2-x-100g-qsfp28-87w-l3-management-fiber-switch",
+      "title": "S5448 x -2C-SI, 48 x 10G SFP+, 2 x 100G QSFP28, 87W, L3 Management Fiber Switch",
+      "sku": "S54-48X-N-2C-SI-L3",
+      "price_usd": 2155,
+      "series": "S5400 (18 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5448X-2C-SIZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448X-2C-SIYou_sO7ifct.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448_x_-2C-SI_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5448X-2C-SIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5506q-2c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s5506q-2c-ei-halfsize-switch-with-6-x-40g-qsfp-2-x-100g-qsfp28-56w-l3-management-fiber-switch",
+      "title": "S5506Q-2C-EI, Halfsize switch with 6 x 40G QSFP+, 2 x 100G QSFP28, 56W, L3 Management Fiber Switch",
+      "sku": "S55-6Q-N-2C-EI-L3",
+      "price_usd": 2155,
+      "series": "S5500 (2 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5506Q-2C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5506Q-2C-EI_YouCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5506Q-2C-EI_ZuoCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5506Q-2C-EI_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s5506q-2c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s5506q-2c-si-halfsize-switch-with-6-x-40g-qsfp-2-x-100g-qsfp28-56w-l3-management-fiber-switch",
+      "title": "S5506Q-2C-SI, Halfsize switch with 6 x 40G QSFP+, 2 x 100G QSFP28, 56W, L3 Management Fiber Switch",
+      "sku": "S55-6Q-N-2C-SI-L3",
+      "price_usd": 1868,
+      "series": "S5500 (2 models)",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S5506Q-2C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5506Q-2C-EI_YouCeMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S5506Q-2C-EI_ZuoCeMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7124x-8c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s7124x-8c-ei-24-x-10g-sfp-8-x-100g-qsfp28-117w-l3-management-fiber-switch",
+      "title": "S7124X-8C-EI, 24 x 10G SFP+, 8 x 100G QSFP28, 117W, L3 Management Fiber Switch",
+      "sku": "S71-24X-N-8C-EI-L3",
+      "price_usd": 4023,
+      "series": "S7100 (6 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S7124X-8C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7124X-8C-EI_2.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7124X-8C-EI_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7124X-8C-EI_BeiMian_XKoy0uD.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7124x-8c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s7124x-8c-si-24-x-10g-sfp-8-x-100g-qsfp28-987w-l3-management-fiber-switch",
+      "title": "S7124X-8C-SI, 24 x 10G SFP+, 8 x 100G QSFP28, 98.7W, L3 Management Fiber Switch",
+      "sku": "S71-24X-N-8C-SI-L3",
+      "price_usd": 3017,
+      "series": "S7100 (6 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S7124X-8C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7124X-8C-EI_2.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7124X-8C-EI_1.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7132x16n-4c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s7132x16n-4c-ei-32-x-10g-sfp-16-x-10g25g-sfp28-4-x-100g-qsfp28-122w-l3-management-fiber-switch",
+      "title": "S7132X16N-4C-EI, 32 x 10G SFP+, 16 x 10G/25G SFP28, 4 x 100G QSFP28, 122W, L3 Management Fiber Switch",
+      "sku": "S71-32X-N-16N4C-EI-L3",
+      "price_usd": 5172,
+      "series": "S7100 (6 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/4.width-1200.png",
+        "https://www.ethernexion.com/media/images/3.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_fLg8cdN.width-1200.png",
+        "https://www.ethernexion.com/media/images/1.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7132x16n-4c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s7132x16n-4c-si-32-x-10g-sfp-16-x-10g25g-sfp28-4-x-100g-qsfp28-11968w-l3-management-fiber-switch",
+      "title": "S7132X16N-4C-SI, 32 x 10G SFP+, 16 x 10G/25G SFP28, 4 x 100G QSFP28, 119.68W, L3 Management Fiber Switch",
+      "sku": "S71-32X-N-16N4C-SI-L3",
+      "price_usd": 3592,
+      "series": "S7100 (6 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/4.width-1200.png",
+        "https://www.ethernexion.com/media/images/3.width-1200.png",
+        "https://www.ethernexion.com/media/images/2_fLg8cdN.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7148x-8c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s7148x-8c-ei-48-x-10g-sfp-8-x-100g-qsfp28-14036w-l3-management-fiber-switch",
+      "title": "S7148X-8C-EI, 48 x 10G SFP+, 8 x 100G QSFP28, 140.36W, L3 Management Fiber Switch",
+      "sku": "S71-48X-N-8C-EI",
+      "price_usd": 5029,
+      "series": "S7100 (6 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S7148X-8C-EIZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7148X-8C-EI_2.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7148X-8C-EI_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7148X-8C-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7148x-8c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s7148x-8c-si-48-x-10g-sfp-8-x-100g-qsfp28-13838w-l3-management-fiber-switch",
+      "title": "S7148X-8C-SI, 48 x 10G SFP+, 8 x 100G QSFP28, 138.38W, L3 Management Fiber Switch",
+      "sku": "S71-48X-N-8C-SI",
+      "price_usd": 4023,
+      "series": "S7100 (6 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S7148X-8C-EIZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7148X-8C-EI_2.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7148X-8C-EI_1.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7224n-8c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s7224n-8c-ei-24-x-10g25g-sfp28-8-x-100g-qsfp28-130w-l3-management-fiber-switch",
+      "title": "S7224N-8C-EI, 24 x 10G/25G SFP28, 8 x 100G QSFP28, 130W, L3 Management Fiber Switch",
+      "sku": "S72-24N-N-8C-EI-L3",
+      "price_usd": 4310,
+      "series": "S7200 (3 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/YouCeMian_hkeImTo.width-1200.png",
+        "https://www.ethernexion.com/media/images/ZuoCeMian_kvWORQK.width-1200.png",
+        "https://www.ethernexion.com/media/images/BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7248n-4c-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s7248n-4c-ei-48-x-10g25g-sfp28-4-x-100g-qsfp28-143w-l3-management-fiber-switch",
+      "title": "S7248N-4C-EI, 48 x 10G/25G SFP28, 4 x 100G QSFP28, 143W, L3 Management Fiber Switch",
+      "sku": "S72-48N-N-4C-EI-L3",
+      "price_usd": 5747,
+      "series": "S7200 (3 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S7248N-4C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7248N-4C-EI_YouBian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7248N-4C-EIZuoBian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7248N-4C-EIBeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7248n-4c-si.md",
+      "url": "https://www.ethernexion.com/products/switches/s7248n-4c-si-48-x-10g25g-sfp28-4-x-100g-qsfp28-1295w-l3-management-fiber-switch",
+      "title": "S7248N-4C-SI, 48 x 10G/25G SFP28, 4 x 100G QSFP28, 129.5W, L3 Management Fiber Switch",
+      "sku": "S72-48N-N-4C-SI-L3",
+      "price_usd": 5029,
+      "series": "S7200 (3 models)",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S7248N-4C-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7248N-4C-EI_YouBian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7248N-4C-EIZuoBian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s7314ch-4n-ei.md",
+      "url": "https://www.ethernexion.com/products/switches/s7314ch-4n-ei-halfsize-switch-with-14-x-100g-qsfp28-4-x-25g10g-sfp28-133w-l3-management-fiber-switch",
+      "title": "S7314CH-4N-EI, Halfsize Switch with 14 x 100G QSFP28, 4* x 25G/10G SFP28, 133W, L3 Management Fiber Switch",
+      "sku": "S73-14C-N-4N-EI-L3",
+      "price_usd": 5460,
+      "series": "单型号（无系列选择器）",
+      "collection": "ENOS BinaryStar Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S7314CH-4N-EI_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7314CH-4N-EI_-3.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7314CH-4N-EI_-2.width-1200.png",
+        "https://www.ethernexion.com/media/images/S7314CH-4N-EI_1.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s8248n-8c.md",
+      "url": "https://www.ethernexion.com/products/switches/s8248n-8c-48-x-10g25g-sfp28-8-x-100g-qsfp28-154w-l3-management-fiber-switch",
+      "title": "S8248N-8C, 48 x 10G/25G SFP28, 8 x 100G QSFP28, 154W, L3 Management Fiber Switch",
+      "sku": "S82-48N-N-8C-Core",
+      "price_usd": 10057,
+      "series": "单型号（无系列选择器）",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S8248N-8CZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S8248N-8C_you.width-1200.png",
+        "https://www.ethernexion.com/media/images/S8248N-8C_zuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S8248N-8C_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s8332c.md",
+      "url": "https://www.ethernexion.com/products/switches/s8332c-32-x-100g-qsfp28-1804w-l3-data-center-fiber-switch",
+      "title": "S8332C, 32 x 100G QSFP28, 180.4W, L3 Data Center Fiber Switch",
+      "sku": "S83-32C-N-Core",
+      "price_usd": 14368,
+      "series": "单型号（无系列选择器）",
+      "collection": "ENOS Data Center Switches",
+      "images": [
+        "https://www.ethernexion.com/media/images/S8332CZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S8332C-_3.width-1200.png",
+        "https://www.ethernexion.com/media/images/S8332C_zuo.width-1200.png",
+        "https://www.ethernexion.com/media/images/S8332C_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s9232bq-2x.md",
+      "url": "https://www.ethernexion.com/products/switches/s9232bq-2x-32-x-200g-qsfp56-2-x-10g-sfp-210w-l3-data-center-fiber-switch",
+      "title": "S9232BQ-2X, 32 x 200G QSFP56, 2 x 10G SFP+, 210W, L3 Data Center Fiber Switch",
+      "sku": "S92-32B-N-2X-Core",
+      "price_usd": 17241,
+      "series": "单型号（无系列选择器）",
+      "collection": "ENOS Data Center Switches (200G)",
+      "images": [
+        "https://www.ethernexion.com/media/images/S9232BQ-2XZheng.width-1200.png",
+        "https://www.ethernexion.com/media/images/S9232BQ-2X_YouBian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S9232BQ-2X_ZuoMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S9232BQ-2X_BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s9332dq.md",
+      "url": "https://www.ethernexion.com/products/switches/s9332dq-32-x-400g-qsfp112-307w-l3-data-center-fiber-switch",
+      "title": "S9332DQ, 32 x 400G QSFP112, 307W, L3 Data Center Fiber Switch",
+      "sku": "S93-32D-N-Core",
+      "price_usd": 33764,
+      "series": "S9300 400G (2 models)",
+      "collection": "ENOS Data Center Switches (400G)",
+      "images": [
+        "https://www.ethernexion.com/media/images/S9332DQ_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/S9332DQ_1.width-1200.png",
+        "https://www.ethernexion.com/media/images/S9332DQ__2.width-1200.png",
+        "https://www.ethernexion.com/media/images/S8532BeiMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s9364dq.md",
+      "url": "https://www.ethernexion.com/products/switches/s9364dq-64-x-400g-qsfp112-l3-data-center-fiber-switch",
+      "title": "S9364DQ, 64 x 400G QSFP112, L3 Data Center Fiber Switch",
+      "sku": "S93-64D-N-Core",
+      "price_usd": 64655,
+      "series": "S9300 400G (2 models)",
+      "collection": "ENOS Data Center Switches (400G)",
+      "images": [
+        "https://www.ethernexion.com/media/images/S9364DQ_ZhengMian.width-1200.png"
+      ]
+    },
+    {
+      "file": "content/products/s9432of.md",
+      "url": "https://www.ethernexion.com/products/switches/s9432of-32-x-800g-osfp-2u-l3-data-center-fiber-switch",
+      "title": "S9432OF, 32 x 800G OSFP, 2U, L3 Data Center Fiber Switch",
+      "sku": "S94-32O-N-Core",
+      "price_usd": 63218,
+      "series": "单型号（无系列选择器）",
+      "collection": "ENOS Data Center Switches (800G)",
+      "images": [
+        "https://www.ethernexion.com/media/images/S9432OF_ZhengMian.width-1200.png",
+        "https://www.ethernexion.com/media/images/0_1Nyp0p8.602.width-1200.png",
+        "https://www.ethernexion.com/media/images/0_59L7N0l.603.width-1200.png",
+        "https://www.ethernexion.com/media/images/S9432OF_BeiMian.width-1200.png"
+      ]
+    }
+  ],
+  "price_note": "价格与 SKU 来自 /products/switches 目录页（Featured 排序，page 1-8）与产品详情页脚。全部 72 个 SKU 均有标价。"
+}

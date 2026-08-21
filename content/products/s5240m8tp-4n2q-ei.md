@@ -1,8 +1,8 @@
 ---
 url: https://www.ethernexion.com/products/switches/s5240m8tp-4n2q-ei-40-x-25g-base-t-poe-per-port-90w-8-x-10g-base-t-poe-per-port-90w-4-x-25-sfp28-2-x-40g-qsfp-1612w-support-l3-management-poe-switch
 title: "S5240M8TP-4N2Q-EI, 40 x 2.5G Base-T (PoE++ per port 90W), 8 x 10G Base-T (PoE++ per port 90W), 4 x 25 SFP28, 2 x 40G QSFP+, 161.2W, Support, L3 Management POE Switch"
-sku: null
-price_usd: null
+sku: S52-40M8T-P-4N2Q-EI-L3  # 来自目录页
+price_usd: 4813  # 来自目录页标价
 series: S5200 (5 models)
 collection: ENOS Enterprise & ISP Switches
 fetched: 2026-08-22

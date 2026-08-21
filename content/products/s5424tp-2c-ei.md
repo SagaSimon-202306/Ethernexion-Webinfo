@@ -1,8 +1,8 @@
 ---
 url: https://www.ethernexion.com/products/switches/s5424tp-2c-ei-24-x-100m1g25g5g10g-base-t-poe-per-port-90w-2-x-100g-qsfp28-112w-support-l3-management-poe-switch
 title: "S5424TP-2C-EI, 24 x 100M/1G/2.5G/5G/10G Base-T (PoE++, per port 90W), 2 x 100G QSFP28, 112W, Support, L3 Management POE Switch"
-sku: null
-price_usd: null
+sku: S54-24T-P-2C-EI-L3  # 来自目录页
+price_usd: 5029  # 来自目录页标价
 series: S5400 (18 models)
 collection: ENOS Data Center Switches
 fetched: 2026-08-22

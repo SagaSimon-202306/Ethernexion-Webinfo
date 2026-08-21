@@ -1,8 +1,8 @@
 ---
 url: https://www.ethernexion.com/products/switches/s7314ch-4n-ei-halfsize-switch-with-14-x-100g-qsfp28-4-x-25g10g-sfp28-133w-l3-management-fiber-switch
 title: "S7314CH-4N-EI, Halfsize Switch with 14 x 100G QSFP28, 4* x 25G/10G SFP28, 133W, L3 Management Fiber Switch"
-sku: null
-price_usd: null
+sku: S73-14C-N-4N-EI-L3  # 来自目录页
+price_usd: 5460  # 来自目录页标价
 series: 单型号（无系列选择器）
 collection: ENOS BinaryStar Switches
 fetched: 2026-08-22
