@@ -1,0 +1,65 @@
+{
+  "company": {
+    "legal_name": "Ethernexion Pte. Ltd.",
+    "brand": "ETHERNEXION / EtherNexion",
+    "founded": 2024,
+    "hq_country": "Singapore",
+    "positioning": "Technology-driven pioneer in Ethernet switch research and development; unified hardware platform and software architecture; portfolio of high-performance switches ranging from 1G to 800G.",
+    "registered_address_terms_page": "7500A Beach Road #04-307, The Plaza, Singapore 199591",
+    "stats": {
+      "global_customers": "20000+",
+      "countries_and_regions": "10+",
+      "rd_experts": "50+",
+      "international_partners": "50+",
+      "skus": "100+",
+      "customer_service": "5×24"
+    }
+  },
+  "offices": [
+    {"name": "Singpore（页面原文拼写如此）", "address": "10 UBI CRESCENT, #04-62, UBI TECHPARK, SINGAPORE 408564", "phone": "0065-80993561"},
+    {"name": "India", "address": "F-8, Pocket F, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020", "email": "pankaj_kumar@ethernexion.com", "phone": "+91 9811750404"},
+    {"name": "Korea", "address": "Room 717, Desian plex, 424, Yangcheon-ro, Gangseo-gu, Seoul, Korea", "phone": "+82-70-7781-1909"},
+    {"name": "Philippines", "address": "128 North Science Avenue SEZ Laguna Technopark, Binan City, Laguna, Philippines.", "email": "business@ethernexion.com"}
+  ],
+  "emails": ["business@ethernexion.com", "pankaj_kumar@ethernexion.com"],
+  "key_people_mentioned": [
+    {"name": "Abdul Rahman", "title": "Managing Director of Ethernexion Singapore", "source": "RAH Infotech partnership news"},
+    {"name": "Andy", "role": "leads technical and business experts on-site", "source": "Convergence India 2026 news"},
+    {"name": "Ray", "role": "quoted spokesperson", "source": "Convergence India 2026 news"}
+  ],
+  "platforms_products": {
+    "ENOS": "Ethernexion Network Operating System — unified software platform, full-stack protocols, <50ms failover, EVPN-VXLAN, RoCE/PFC/ECN, YANG/NETCONF/RESTCONF",
+    "UniCloud": "Cloud-native lifecycle network management platform (ZTP, topology discovery, simulation panel, OTA, multi-org); console: http://unicloud.ethernexion.com/",
+    "SONiC": "SONiC commercialization solutions on ZEGMA chip hardware platform + barebone reference source code",
+    "ZEGMA": "high-performance switching chip platform (silicon partner, also spelled Zegma)"
+  },
+  "hardware_platforms_named": {
+    "S37": "LightLlink Platform（页面原文拼写如此）",
+    "S5": "VastLake Platform",
+    "S7": "Bigflow Platform",
+    "S8": "Powerlink Platform",
+    "S9": "SerdesX Platform"
+  },
+  "partners_directory_page_entries": [
+    {"country": "India", "address": "SECTOR 78,Noida,Gautam Buddha Nagar,Noida,Uttar Pradesh,India,201301", "website": null},
+    {"country": "India", "address": "Unit No 239 Tower B, Logix Technova Sector 132 Noida", "website": "www.avisoinfotech.co.in"},
+    {"country": "India", "address": "2nd Floor , B-61 , Kalka ji New delhi 110019", "website": "www.abrari.in"},
+    {"country": "India", "address": "40B, 2nd Floor, Block B, Green Park Extension, Yusuf Sarai, New Delhi, Delhi 110016", "website": "www.archnetwork.in"},
+    {"country": "India", "address": "45, Bajirao Rd, near Mehta Publication House, Madiwale Colony, Sadashiv Peth, Pune, Maharashtra 411030", "website": null},
+    {"country": "India", "address": "#216, Nadagokula, 5th Main, Opp Patalamma Temple, Dr, Vishnuvardhan Road, B S K 5th Stage, Bangalore-560061", "website": "www.belvem.in"},
+    {"country": "India", "address": "401, 4th Floor, Vatika Professional Point, Golf Course Extension Road, Sector-66, Gurugram, Haryana – 122101", "website": "www.cloudonesystem.com"},
+    {"country": "India", "address": "No.79, V.V Kovil street,Annanagar west THIRUVALEESHWARER NAGAR", "website": "www.commnetindia.com"},
+    {"country": "South Korea", "address": "Room 1207, 278, Cherry Blossom-ro, Geumcheon-gu, Seoul, 08511, Seoul", "website": "www.daejinnetworks.com"}
+  ],
+  "external_links": {
+    "unicloud_console": "http://unicloud.ethernexion.com/",
+    "community_forum": "https://community.ethernexion.com/",
+    "sso_login": "https://www.ethernexion.com:8001/accounts/oidc/keycloak/login/",
+    "media_server": "https://www.ethernexion.com:8001/media/",
+    "staging_domain_leaks": "多个页面按钮链接指向测试域 https://test.hohunet.cn/...（ENOS 页、Solutions 页、SMB 方案页、Campus 方案页）",
+    "tech_stack_hints": "前端 Next.js（/_next/image 优化器）；CMS Wagtail（gateway/wifi 空目录提示 'Publish listed catalog products in Wagtail Snippets'）；SSO Keycloak"
+  },
+  "distributor_partnership": {
+    "india_vad": "RAH Infotech（2026-06 官宣印度 VAD）"
+  }
+}

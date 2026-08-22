@@ -1,0 +1,75 @@
+{
+  "note": "www.ethernexion.com 产品集合结构（来自首页菜单 + 集合页 + sitemap）",
+  "category": {
+    "switches": {"url": "https://www.ethernexion.com/products/switches", "product_count": 72},
+    "gateway": {"url": "https://www.ethernexion.com/products/gateway", "product_count": 0, "page_text": "No listed products in this category yet. Publish listed catalog products in Wagtail Snippets."},
+    "wifi": {"url": "https://www.ethernexion.com/products/wifi", "product_count": 0, "page_text": "No listed products in this category yet. Publish listed catalog products in Wagtail Snippets."}
+  },
+  "collections": [
+    {
+      "name": "ENOS Data Center Switches",
+      "url": "https://www.ethernexion.com/products/switches/collections/enos-data-center-switches",
+      "banner_image": "https://www.ethernexion.com:8001/media/original_images/ShuJuZhongXin525.webp",
+      "product_count": 14,
+      "subcollections": [
+        {"name": "800G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-data-center-switches/800g-enos-switches/"},
+        {"name": "400G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-data-center-switches/400g-enos-switches/"},
+        {"name": "200G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-data-center-switches/200g-enos-switches/"},
+        {"name": "100G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-data-center-switches/100g-enos-switches"},
+        {"name": "25G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-data-center-switches/25g-enos-switches"},
+        {"name": "10G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-data-center-switches/10g-enos-switches"}
+      ]
+    },
+    {
+      "name": "ENOS BinaryStar Switches",
+      "url": "https://www.ethernexion.com/products/switches/collections/enos-binarystar-switches",
+      "banner_image": "https://www.ethernexion.com:8001/media/original_images/ENOS_DynamicDuo_Switches_-1.webp",
+      "product_count": 9,
+      "subcollections": [
+        {"name": "100G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-binarystar-switches/100g-enos-switches", "menu_url_variant": "https://www.ethernexion.com/products/switches/collections/enos-dynamicduo-switches/100g-enos-switches"},
+        {"name": "40G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-binarystar-switches/40g-enos-switches", "menu_url_variant": "https://www.ethernexion.com/products/switches/collections/enos-dynamicduo-switches/40g-enos-switches"},
+        {"name": "10G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-binarystar-switches/10g-enos-switches", "menu_url_variant": "https://www.ethernexion.com/products/switches/collections/enos-dynamicduo-switches/10g-enos-switches"}
+      ]
+    },
+    {
+      "name": "ENOS Enterprise & ISP Switches",
+      "url": "https://www.ethernexion.com/products/switches/collections/enos-enterprise-isp-switches",
+      "banner_image": "https://www.ethernexion.com:8001/media/original_images/QiYe525_wJNt9WC.webp",
+      "product_count": 55,
+      "subcollections": [
+        {"name": "100G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-enterprise-isp-switches/100g-enos-switches"},
+        {"name": "25G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-enterprise-isp-switches/25g-enos-switches"},
+        {"name": "10G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-enterprise-isp-switches/10g-enos-switches"},
+        {"name": "5G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-enterprise-isp-switches/5g-enos-switches"},
+        {"name": "2.5G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-enterprise-isp-switches/25g-enos-switches-2"},
+        {"name": "1G ENOS Switches", "url": "https://www.ethernexion.com/products/switches/collections/enos-enterprise-isp-switches/1g-enos-switches"}
+      ]
+    },
+    {
+      "name": "SMB/SME Switches",
+      "url": "https://www.ethernexion.com/products/switches/collections/smbsme-switches",
+      "banner_image": "https://www.ethernexion.com:8001/media/original_images/SMESMB525.webp",
+      "product_count": 4,
+      "subcollections": [
+        {"name": "1G Switches", "url": "https://www.ethernexion.com/products/switches/collections/smbsme-switches/1g-switches"}
+      ]
+    }
+  ],
+  "series_grouping": {
+    "S2100": ["S2108G-2S", "S2108GP-2S", "S2124G-4S", "S2124GP-4S"],
+    "S3700": ["S3708GP-2X-SI", "S3724G-6X-EI", "S3724G-6X-SI", "S3724GP-6X-EI", "S3724GP-6X-SI", "S3724S-8T6X-EI", "S3724S-8T6X-SI", "S3748G-6X-EI", "S3748G-6X-SI", "S3748GP-6X-EI", "S3748GP-6X-SI"],
+    "S5100": ["S5124G-4X2Q-EI", "S5124G-4X2Q-SI", "S5124GP-4X2Q-EI", "S5124GP-4X2Q-SI", "S5124GPB-4X2Q-EI", "S5148G-4X2Q-EI", "S5148G-4X2Q-SI", "S5148GP-4X2Q-EI", "S5148GP-4X2Q-SI", "S5148GPB-4X2Q-EI"],
+    "S5200": ["S5216M8TP-8N-EI", "S5232M16TP-8N-EI", "S5240M8TP-4N2Q-EI", "S5248M-4X2Q-EI", "S5248M-4X2Q-SI"],
+    "S5300": ["S5324VP-8N-EI", "S5334V-1X2C-SI", "S5348V-4C-EI", "S5348V-4C-SI", "S5348V-4N2C-EI", "S5348V-4N2C-SI"],
+    "S5400": ["S5412X-8G8S8N2Q-EI", "S5412X12TH-2C-EI", "S5412X12TH-2C-SI", "S5424T-2C-EI", "S5424T-2C-SI", "S5424T-8N-EI", "S5424TH-2C-EI", "S5424TH-2C-SI", "S5424TP-2C-EI", "S5424TP-8N-EI", "S5424X-2C-EI", "S5424X-2C-SI", "S5424X-8N-EI", "S5424XH-2C-EI", "S5424XH-2C-SI", "S5448T-4X2C-EI", "S5448T-4X2C-SI", "S5448X-2C-SI"],
+    "S5500": ["S5506Q-2C-EI", "S5506Q-2C-SI"],
+    "S7100": ["S7124X-8C-EI", "S7124X-8C-SI", "S7132X16N-4C-EI", "S7132X16N-4C-SI", "S7148X-8C-EI", "S7148X-8C-SI"],
+    "S7200": ["S7224N-8C-EI", "S7248N-4C-EI", "S7248N-4C-SI"],
+    "S7300": ["S7314CH-4N-EI"],
+    "S8200": ["S8248N-8C"],
+    "S8300": ["S8332C"],
+    "S9200": ["S9232BQ-2X"],
+    "S9300": ["S9332DQ", "S9364DQ"],
+    "S9400": ["S9432OF"]
+  }
+}

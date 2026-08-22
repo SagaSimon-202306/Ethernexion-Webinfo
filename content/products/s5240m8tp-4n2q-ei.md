@@ -1,0 +1,60 @@
+---
+url: https://www.ethernexion.com/products/switches/s5240m8tp-4n2q-ei-40-x-25g-base-t-poe-per-port-90w-8-x-10g-base-t-poe-per-port-90w-4-x-25-sfp28-2-x-40g-qsfp-1612w-support-l3-management-poe-switch
+title: "S5240M8TP-4N2Q-EI, 40 x 2.5G Base-T (PoE++ per port 90W), 8 x 10G Base-T (PoE++ per port 90W), 4 x 25 SFP28, 2 x 40G QSFP+, 161.2W, Support, L3 Management POE Switch"
+sku: S52-40M8T-P-4N2Q-EI-L3  # 来自目录页
+price_usd: 4813  # 来自目录页标价
+series: S5200 (5 models)
+collection: ENOS Enterprise & ISP Switches
+fetched: 2026-08-22
+---
+
+# S5240M8TP-4N2Q-EI, 40x2.5GBase-T(PoE++perport90W),8x10GBase-T(PoE++perport90W),4x25GSFP28,2x40GQSFP+, Support, L3 Management PoE Switch
+
+## Images
+
+- https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIZheng.width-1200.png
+- https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIYou.width-1200.png
+- https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIZuo_NZ7wnvG.width-1200.png
+- https://www.ethernexion.com/media/images/S5240M8TP-4N2Q-EIBeiMianGuangZhao.width-1200.png
+
+## Highlights
+
+见 `_series-s5200-compare.md`（系列共用，逐字保存，含 PoE 专属条目）。
+
+Product Series: 5 models in this series — select one to view its specs and pricing.
+
+## Key specs
+
+Port Count48Port
+
+PoEPoE++90W
+
+Downlink Ports2.5G Base-T, 10G Base-T
+
+Uplink Ports25G SFP28, 40G QSFP+
+
+## Specifications
+
+Ethernet Ports40 x 2.5G Base-T (PoE++ per port 90W) \| 8 x 10G Base-T (PoE++ per port 90W) \| 4 x 25 SFP28,2 x 40G QSFP+DRAM2GB
+
+PoE FunctionPoE++90WeMMC8GB
+
+Power Supplies2 (1+1 Redundancy) Hot-swappable,AC(1200W\|1200W)Switch capacity720 Gbps
+
+Fans2\*pluggable Fans Modules(Front-to-Back Airflow)Layer 2/Layer 3 Throughput1072 MPPS
+
+Dimensions(W\*H\*D)442\*44\*420(mm)Jumbo Frame9600
+
+Form Factor1RUMTBF≥90000h
+
+Weight(kg)(Net\|Gross)TBDMAC Address98304
+
+Power Consumption161.2WIPv4/IPv6 Routing Entry57K/4K
+
+Operating Temperature0ºC to 45ºCNumber of VLANs4094
+
+## Software specifications / Resources / Compare models
+
+见 `_series-s5200-compare.md`（S5200 系列共用，逐字保存）。
+
+> 页面模板块见 `content/products/_page-template-blocks.md`。
